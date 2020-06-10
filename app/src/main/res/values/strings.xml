@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Projeto3Botoes</string>
+    <string name="TELEFONE">TELEFONE</string>
+    <string name="EMAIL">EMAIL</string>
+    <string name="LIGAR">LIGAR</string>
+    <string name="NUMERO">NUMERO</string>
+    <string name="BUSCA">BUSCA</string>
+    <string name="END">END</string>
+    <string name="ASS">ASS</string>
+    <string name="TEXTO">TEXTO</string>
+    <string name="ENVIAR">ENVIAR</string>
+    <string name="TEXTOPESQ">TEXTO</string>
+    <string name="BUSCAR">BUSCAR</string>
+</resources>
